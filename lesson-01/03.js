@@ -2,14 +2,10 @@
 
 let number = 1;
 
-let result1 = number++;
-console.log(result1); 
+console.log(number++); 
 
-let result2 = ++number;
-console.log(result2); 
+console.log(++number); 
 
-let result3 = number--;
-console.log(result3); 
+console.log(number--); 
 
-let result4 = --number;
-console.log(result4); 
+console.log(--number); 
