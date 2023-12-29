@@ -28,4 +28,4 @@ const newObj = {
 }
 
 users2.push(newObj);
-console.log(users2)
+console.log(users2);
